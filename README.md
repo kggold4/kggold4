@@ -4,7 +4,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kggold4&theme=react&layout=compact" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kggold4&show_icons=true&theme=slateorange&layout=compact&line_height=20" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kggold4&show_icons=true&theme=react&layout=compact&line_height=20" />
 </a>
 
 <h3 align="left">Languages and Tools:</h3>
