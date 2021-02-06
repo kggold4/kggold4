@@ -1,8 +1,8 @@
 <h1 align="center">Kfir Goldfarb</h1>
 
-<p><i>
+<div align="center"><i>
 Computer Science and Math Student, Specialize in Data Science and Artificial Intelligence, Full-stack developer, Graphic Designer
-</i></p>
+</i></div>
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kggold4&theme=react&layout=compact" />
