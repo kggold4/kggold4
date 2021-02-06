@@ -1,14 +1,14 @@
-<h1 align="center">Welcome 👋, I'm Kfir Goldfarb</h1>
+<h1 align="center">Kfir Goldfarb</h1>
+
+<p><i>
+Computer Science and Math Student, Specialize in Data Science and Artificial Intelligence, Full-stack developer, Graphic Designer
+</i></p>
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kggold4&theme=react&layout=compact" />
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kggold4&show_icons=true&theme=react&layout=compact&line_height=20" />
-
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kggold4)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
