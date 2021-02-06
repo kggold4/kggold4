@@ -5,7 +5,7 @@ Computer Science and Math Student, Specialize in Data Science and Artificial Int
 </i></p>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kggold4&theme=react&layout=compact" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kggold4&&langs_count=10&show_icons=true&theme=react&layout=compact&line_height=20" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=kggold4&langs_count=10&show_icons=true&theme=react&layout=compact&line_height=20" />
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
