@@ -4,11 +4,14 @@
 Computer Science and Math Student, Specialize in Data Science and Artificial Intelligence, Full-stack developer, Graphic Designer
 </i></p>
 
+<p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kggold4&theme=react&layout=compact&langs_count=10" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kggold4&show_icons=true&theme=react&layout=compact&line_height=20" />
+</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p align="center">
 <a href="https://www.java.com" target="Java"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/java.svg" alt="java" width="40" height="40"/>  </a>
 <a href="https://www.python.org" target="Python"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" alt="python" width="40" height="40"/>  </a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/c.svg" alt="C" width="40" height="40"/>  </a>
