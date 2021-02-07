@@ -4,8 +4,7 @@
 Computer Science and Math Student, Specialize in Data Science and Artificial Intelligence, Full-stack developer, Graphic Designer
 </i></p>
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kggold4&theme=react&layout=compact&langs_count=10" />
+<p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kggold4&show_icons=true&theme=react&layout=compact&line_height=20" />
 </p>
 
