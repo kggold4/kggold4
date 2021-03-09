@@ -21,6 +21,7 @@ Computer Science and Math Student, Specialize in Data Science and Artificial Int
 <a href="https://www.json.org/json-en.html"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/json.svg" alt="json" width="40" height="40"/></a>
 <a href="https://www.php.net/"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/php.svg" alt="php" width="40" height="40"/></a>
 <a href="https://www.mysql.com/"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/mysql.svg" alt="mysql" width="40" height="40"/></a>
+<a href="https://www.docker.com/"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/docker-icon.svg" alt="docker" width="40" height="40"/></a>
 <a href="https://www.jetbrains.com/idea/" title="Intellij IDEA"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/intellij-idea.svg" alt="Intellij IDEA" width="40" height="40"/></a>  
 <a href="https://www.jetbrains.com/pycharm/" target="PyCharm"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/pycharm.svg" alt="PyCharm" width="40" height="40"/></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio Code" width="40" height="40"/>  </a>  
@@ -29,5 +30,3 @@ Computer Science and Math Student, Specialize in Data Science and Artificial Int
 <a href="http://adobe.com/il_he/products/photoshop.html"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/adobe-photoshop.svg" alt="photoshop" width="40" height="40"/></a>
 <a href="http://adobe.com/il_he/products/illustrator.html" target="illustrator"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/adobe-illustrator.svg" alt="illustrator" width="40" height="40"/></a>
 </p>
-
-
