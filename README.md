@@ -34,7 +34,7 @@ Computer Science and Math Student, Specialize in Data Science and Artificial Int
 
 <h3 align="left">Links:</h3>
 <p align="center">
-<a href="https://github.com/kggold4"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/github-icon.svg" alt="github" width="40" height="40"/></a>
+<a href="https://github.com/kggold4"> <img src="https://www.pngkey.com/png/full/178-1787243_github-icon-png-github-icon-white-png.png" alt="github" width="40" height="40"/></a>
 <a href="https://www.linkedin.com/in/kfir-goldfarb/"> <img src="https://github.com/get-icon/geticon/blob/master/icons/linkedin-icon.svg" alt="linkedin" width="40" height="40"/></a>
 <a href="https://stackoverflow.com/users/14749277/kfir-goldfarb"> <img src="https://apifriends.com/wp-content/uploads/2018/04/stackoverflow.png" alt="stackoverflow" width="40" height="40"/></a>
 <a href="https://www.hackerrank.com/kggold4"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Hackerrank_meaningful_logo.svg/1024px-Hackerrank_meaningful_logo.svg.png" alt="Hackerrank" width="40" height="40"/></a>
