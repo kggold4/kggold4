@@ -28,7 +28,6 @@ Computer Science and Math Student, Specialize in Data Science and Artificial Int
 <a href="https://www.docker.com/"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/docker-icon.svg" alt="docker" width="40" height="40"/></a>
 <a href="https://www.jetbrains.com/idea/" title="Intellij IDEA"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/intellij-idea.svg" alt="Intellij IDEA" width="40" height="40"/></a>  
 <a href="https://www.jetbrains.com/pycharm/" target="PyCharm"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/pycharm.svg" alt="PyCharm" width="40" height="40"/></a>
-<a href="https://datalore.jetbrains.com/" target="PyCharm"> <img src="http://cdn.embed.ly/providers/logos/datalorebyjetbrains.png" alt="datalore" width="40" height="40"/></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio Code" width="40" height="40"/></a>  
 <a href="https://git-scm.com/" target="git"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <a href="https://jupyter.org/" target="jupyter"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/jupyter.svg" alt="jupyter" width="40" height="40"/></a>
