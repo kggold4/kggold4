@@ -18,8 +18,6 @@ Computer Science and Math Student, Specialize in Data Science and Artificial Int
 <a href="https://developer.mozilla.org/he/docs/Web/JavaScript"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" alt="javascript" width="40" height="40"/></a>
 <a href="https://developer.mozilla.org/he/docs/Web/HTML"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/html-5.svg" alt="html-5" width="40" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/css-3.svg" alt="css-3" width="40" height="40"/></a>
-<a href="https://www.json.org/json-en.html"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/json.svg" alt="json" width="40" height="40"/></a>
-<a href="https://www.php.net/"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/php.svg" alt="php" width="40" height="40"/></a>
 <a href="https://www.mongodb.com/"> <img src="https://img.icons8.com/color/50/000000/mongodb.png" alt="mongodb" width="40" height="40"/></a>
 <a href="https://www.mysql.com/"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/mysql.svg" alt="mysql" width="40" height="40"/></a>
 <a href="https://www.elastic.co/"> <img src="https://cdn.iconscout.com/icon/free/png-256/elasticsearch-226094.png" alt="elasticsearch" width="40" height="40"/></a>
