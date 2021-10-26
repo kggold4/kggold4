@@ -1,0 +1,1 @@
+![bm course](https://github.com/kggold4/kggold4/blob/main/Certificate%20for%20CV/IDF/bm/bm.png)
