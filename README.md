@@ -1,7 +1,7 @@
 <h1 align="center">Kfir Goldfarb</h1>
 
 <p align="center"><i>
-Computer Science and Math Student, Specialize in Data Science and Artificial Intelligence, Full-stack developer and Graphic Designer
+Computer Science and Math Student, Specialize in Data Science and Artificial Intelligence, Full-Stack developer and Graphic Designer
 </i></p>
 
 <p align="center">
