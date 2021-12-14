@@ -1,7 +1,7 @@
 <h1 align="center">Kfir Goldfarb</h1>
 
 <p align="center"><i>
-Computer Science and Math Student, Specialize in Data Science and Artificial Intelligence, Full-Stack developer and Graphic Designer
+Computer Science and Math Student, Specialize in Data Science and Artificial Intelligence and Software Developer
 </i></p>
 
 <p align="center">
@@ -9,7 +9,7 @@ Computer Science and Math Student, Specialize in Data Science and Artificial Int
 </p>
 
 
-<h4 align="left">Languages:</h4>
+<h4 align="left">Languages, Databases and Tools:</h4>
 <p align="center">
 <a href="https://www.java.com" target="Java"> <img src="https://github.com/get-icon/geticon/blob/master/icons/java.svg" alt="java" width="35" height="35"/></a>
 <a href="https://www.python.org" target="Python"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" alt="python" width="35" height="35"/></a>
@@ -18,19 +18,11 @@ Computer Science and Math Student, Specialize in Data Science and Artificial Int
 <a href="https://developer.mozilla.org/he/docs/Web/JavaScript"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" alt="javascript" width="35" height="35"/></a>
 <a href="https://developer.mozilla.org/he/docs/Web/HTML"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/html-5.svg" alt="html-5" width="35" height="35"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/css-3.svg" alt="css-3" width="35" height="35"/></a>
-</p>
-
-<h4 align="left">DataBases:</h4>
-<p align="center">
 <a href="https://www.mongodb.com/"> <img src="https://img.icons8.com/color/50/000000/mongodb.png" alt="mongodb" width="35" height="35"/></a>
 <a href="https://www.mysql.com/"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/mysql.svg" alt="mysql" width="35" height="35"/></a>
 <a href="https://www.elastic.co/"> <img src="https://cdn.iconscout.com/icon/free/png-256/elasticsearch-226094.png" alt="elasticsearch" width="35" height="35"/></a>
 <a href="https://neo4j.com/"> <img src="https://iconape.com/wp-content/files/qy/83705/svg/neo4j.svg" alt="neo4j" width="35" height="35"/></a>
 <a href="https://redis.io/"> <img src="https://cdn.iconscout.com/icon/free/png-256/redis-83994.png" alt="redis" width="35" height="35"/></a>
-</p>
-
-<h4 align="left">IDE's and Code Editors:</h4>
-<p align="center">
 <a href="https://www.jetbrains.com/idea/" title="Intellij IDEA"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/intellij-idea.svg" alt="Intellij IDEA" width="35" height="35"/></a>  
 <a href="https://www.jetbrains.com/pycharm/" target="PyCharm"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/pycharm.svg" alt="PyCharm" width="35" height="35"/></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio Code" width="35" height="35"/></a>  
