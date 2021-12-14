@@ -36,7 +36,7 @@ Computer Science and Math Student, Specialize in Data Science and Artificial Int
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio Code" width="35" height="35"/></a>  
 <a href="https://jupyter.org/" target="jupyter"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/jupyter.svg" alt="jupyter" width="35" height="35"/></a>
 <a href="http://adobe.com/il_he/products/photoshop.html"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/adobe-photoshop.svg" alt="photoshop" width="35" height="35"/></a>
-<a href="http://adobe.com/il_he/products/illustrator.html" target="illustrator"> <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/e08fc499300281.5ef0678857dcb.png" alt="illustrator" width="35" height="35"/></a>
+<a href="http://adobe.com/il_he/products/illustrator.html" target="illustrator"> <img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/animate.svg" alt="illustrator" width="35" height="35"/></a>
 </p>
 
 <h4 align="left">Links:</h4>
