@@ -23,6 +23,7 @@ Computer Science and Math Student, Specialize in Data Science and Artificial Int
 <a href="https://www.elastic.co/"> <img src="https://cdn.iconscout.com/icon/free/png-256/elasticsearch-226094.png" alt="elasticsearch" width="40" height="40"/></a>
 <a href="https://neo4j.com/"> <img src="https://iconape.com/wp-content/files/qy/83705/svg/neo4j.svg" alt="neo4j" width="40" height="40"/></a>
 <a href="https://redis.io/"> <img src="https://cdn.iconscout.com/icon/free/png-256/redis-83994.png" alt="redis" width="40" height="40"/></a>
+<a href="https://www.linux.org/"> <img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/linux-tux.svg" alt="linux" width="40" height="40"/></a>
 <a href="https://www.docker.com/"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/docker-icon.svg" alt="docker" width="40" height="40"/></a>
 <a href="https://www.jetbrains.com/idea/" title="Intellij IDEA"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/intellij-idea.svg" alt="Intellij IDEA" width="40" height="40"/></a>  
 <a href="https://www.jetbrains.com/pycharm/" target="PyCharm"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/pycharm.svg" alt="PyCharm" width="40" height="40"/></a>
