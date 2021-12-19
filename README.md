@@ -27,6 +27,9 @@ Computer Science and Math Student, Specialize in Data Science and Artificial Int
 <a href="https://www.docker.com/"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/docker-icon.svg" alt="docker" width="35" height="35"/></a>
 <a href="https://git-scm.com/" target="git"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/></a>
 <a href="https://www.tensorflow.org/" target="tensorflow"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tensorflow" width="35" height="35"/></a>
+<a href="https://scikit-learn.org/" target="sklearn"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" alt="sklearn" width="35" height="35"/></a>
+
+
 </p>
 
 <h4 align="left">IDE's, Code Editors and Programs:</h4>
