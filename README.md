@@ -26,7 +26,7 @@ Computer Science and Math Student, Specialize in Data Science and Artificial Int
 <a href="https://www.linux.org/"> <img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/linux-tux.svg" alt="linux" width="35" height="35"/></a>
 <a href="https://www.docker.com/"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/docker-icon.svg" alt="docker" width="35" height="35"/></a>
 <a href="https://git-scm.com/" target="git"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/></a>
-<a href="https://developer.android.com/" target="git"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/1200px-Android_Studio_Icon_%282014-2019%29.svg.png" alt="android studio" width="35" height="35"/></a>
+<a href="https://developer.android.com/" target="git"> <img src="https://www.gstatic.com/devrel-devsite/prod/v84e6f6a61298bbae5bb110c196e834c7f21fe3fb34e722925433ddb936d280c9/android/images/touchicon-180.png" alt="android studio" width="35" height="35"/></a>
 <a href="https://www.tensorflow.org/" target="tensorflow"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tensorflow" width="35" height="35"/></a>
 
 </p>
