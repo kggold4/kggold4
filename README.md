@@ -30,6 +30,8 @@ Computer Science and Math Student, Specialize in Data Science and Artificial Int
 <a href="https://git-scm.com/" target="git"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/></a>
 <a href="https://developer.android.com/" target="git"> <img src="https://www.gstatic.com/devrel-devsite/prod/v84e6f6a61298bbae5bb110c196e834c7f21fe3fb34e722925433ddb936d280c9/android/images/touchicon-180.png" alt="android studio" width="35" height="35"/></a>
 <a href="https://www.tensorflow.org/" target="tensorflow"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tensorflow" width="35" height="35"/></a>
+<a href="https://numpy.org/" target="numpy"> <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/numpy-icon.svg" alt="numpy" width="35" height="35"/></a>
+<a href="https://pandas.pydata.org/" target="pandas"> <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/pandas-icon.svg" alt="pandas" width="35" height="35"/></a>
 
 </p>
 
@@ -37,7 +39,7 @@ Computer Science and Math Student, Specialize in Data Science and Artificial Int
 <p align="center">
 <a href="https://www.jetbrains.com/idea/" title="Intellij IDEA"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/intellij-idea.svg" alt="Intellij IDEA" width="35" height="35"/></a>  
 <a href="https://www.jetbrains.com/pycharm/" target="PyCharm"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/pycharm.svg" alt="PyCharm" width="35" height="35"/></a>
-<a href="https://www.jetbrains.com/webstorm/" target="PyCharm"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/1200px-WebStorm_Icon.svg.png" alt="WebStrom" width="35" height="35"/></a>
+<a href="https://www.jetbrains.com/webstorm/" target="WebStorm"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/1200px-WebStorm_Icon.svg.png" alt="WebStrom" width="35" height="35"/></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio Code" width="35" height="35"/></a>  
 <a href="https://jupyter.org/" target="jupyter"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/jupyter.svg" alt="jupyter" width="35" height="35"/></a>
 <a href="http://adobe.com/il_he/products/photoshop.html"> <img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/photoshop.svg" alt="photoshop" width="35" height="35"/></a>
