@@ -39,7 +39,6 @@ Computer Science and Math Student, Specialize in Data Science and Artificial Int
 <p align="center">
 <a href="https://www.jetbrains.com/idea/" title="Intellij IDEA"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/intellij-idea.svg" alt="Intellij IDEA" width="35" height="35"/></a>  
 <a href="https://www.jetbrains.com/pycharm/" target="PyCharm"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/pycharm.svg" alt="PyCharm" width="35" height="35"/></a>
-<a href="https://www.jetbrains.com/webstorm/" target="WebStorm"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/1200px-WebStorm_Icon.svg.png" alt="WebStrom" width="35" height="35"/></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio Code" width="35" height="35"/></a>  
 <a href="https://jupyter.org/" target="jupyter"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/jupyter.svg" alt="jupyter" width="35" height="35"/></a>
 <a href="http://adobe.com/il_he/products/photoshop.html"> <img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/photoshop.svg" alt="photoshop" width="35" height="35"/></a>
