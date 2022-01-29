@@ -3,7 +3,7 @@
 <p align="center"><i>
 Software Developer at <a href="https://www.linkedin.com/company/matrix/">@Matrix</a>
 <br>
-Computer Science and Math Student, Specialize in Data Science and Artificial Intelligence and Software Developer
+Computer Science and Math Student, Specialize in Data Science and Artificial Intelligence (third year)
 </i></p>
 
 <p align="center">
