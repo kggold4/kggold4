@@ -11,8 +11,10 @@ Computer Science and Math Student, Specialize in Data Science and Artificial Int
 </p>
 
 <h3 align="center"> 
+
 ![](https://visitor-badge.laobi.icu/badge?page_id=kggold4.kggold4) 
 [![Github](https://img.shields.io/github/followers/kggold4?label=Followers&style=social)](https://github.com/kggold4)
+
 </h3>
 
 <h4 align="left">Languages, Databases and Tools:</h4>
