@@ -1,0 +1,2 @@
+![illustrator](https://github.com/kggold4/kggold4/blob/main/Certificate%20for%20CV/IDF/design/illustrator.jpg)
+![photoshop](https://github.com/kggold4/kggold4/blob/main/Certificate%20for%20CV/IDF/design/photoshop.png)
