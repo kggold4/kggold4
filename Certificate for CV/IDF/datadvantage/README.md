@@ -1,1 +1,0 @@
-![datadvantage](https://github.com/kggold4/kggold4/blob/main/Certificate%20for%20CV/IDF/datadvantage/datadvantage.png)

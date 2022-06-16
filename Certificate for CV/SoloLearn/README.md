@@ -1,5 +1,0 @@
-![javascript](https://github.com/kggold4/kggold4/blob/main/Certificate%20for%20CV/SoloLearn/javascript.jpg)
-![sql](https://github.com/kggold4/kggold4/blob/main/Certificate%20for%20CV/SoloLearn/sql.jpg)
-![php](https://github.com/kggold4/kggold4/blob/main/Certificate%20for%20CV/SoloLearn/php.jpg)
-![css3](https://github.com/kggold4/kggold4/blob/main/Certificate%20for%20CV/SoloLearn/css3.jpg)
-![html5](https://github.com/kggold4/kggold4/blob/main/Certificate%20for%20CV/SoloLearn/html5.jpg)
