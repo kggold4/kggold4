@@ -10,6 +10,8 @@ Computer Science and Math Student, Specialize in Data Science and Artificial Int
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kggold4&show_icons=true&theme=react&layout=compact&line_height=20" />
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kggold4&theme=radical&show_icons=true&locale=en&layout=compact" alt="kggold4" /></p>
+
 <h3 align="center"> 
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=kggold4.kggold4) 
