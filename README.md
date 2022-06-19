@@ -62,3 +62,8 @@ Computer Science and Math Student, Specialize in Data Science and Artificial Int
 <a href="https://www.youtube.com/channel/UCypEWlruyG_I5A48GqB5c6g"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" alt="YouTube" width="50.4" height="35"/></a>
 
 </p>
+
+<h4 algin="left">My Websites:</h4>
+[GitHub Protfolio](https://kggold4.github.io/)
+[Scarlet Publishing](https://www.scarlet-publishing.com/)
+[Hagita Haronof](http://hagitaharonof.com/)
