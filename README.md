@@ -65,6 +65,6 @@ Computer Science and Math Student, Specialize in Data Science and Artificial Int
 
 <h4 align="left">My Websites:</h4>
 
-1. [GitHub Protfolio](https://kggold4.github.io/)
-2. [Scarlet Publishing](https://www.scarlet-publishing.com/)
-3. [Hagita Haronof](http://hagitaharonof.com/)
+1. <img width="35" height="35" src="https://github.com/kggold4/kggold4/tree/main/images/kg-01.png"> [GitHub Protfolio](https://kggold4.github.io/)
+2. <img width="35" height="35" src="https://www.scarlet-publishing.com/images/logos/scarlet_new_01.png"> [Scarlet Publishing](https://www.scarlet-publishing.com/)
+3. <img width="35" height="35" src="http://hagitaharonof.com/Style/logo.png"> [Hagita Haronof](http://hagitaharonof.com/)
