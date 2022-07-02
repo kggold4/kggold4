@@ -10,7 +10,7 @@ Computer Science and Math Student, Specialize in Data Science and Artificial Int
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kggold4&show_icons=true&theme=react&layout=compact&line_height=20" />
 </p>
 
-<h3 align="center"> 
+<h3 align="center">
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=kggold4.kggold4) 
 [![Github](https://img.shields.io/github/followers/kggold4?label=Followers&style=social)](https://github.com/kggold4)
@@ -67,4 +67,3 @@ Computer Science and Math Student, Specialize in Data Science and Artificial Int
 
 1. <img width="20" height="20" src="https://github.com/kggold4/kggold4/blob/main/images/kg-01.png"> [GitHub Protfolio](https://kggold4.github.io/) (in development)
 2. <img width="20" height="20" src="https://www.scarlet-publishing.com/images/logos/scarlet_new_01.png"> [Scarlet Publishing](https://www.scarlet-publishing.com/)
-3. <img width="20" height="20" src="http://hagitaharonof.com/Style/logo.png"> [Hagita Haronof](http://hagitaharonof.com/)
