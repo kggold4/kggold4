@@ -67,3 +67,4 @@ Computer Science and Math Student, Specialize in Data Science and Artificial Int
 
 1. <img width="20" height="20" src="https://github.com/kggold4/kggold4/blob/main/images/kg-01.png"> [GitHub Protfolio](https://kggold4.github.io/) (in development)
 2. <img width="20" height="20" src="https://www.scarlet-publishing.com/images/logos/scarlet_new_01.png"> [Scarlet Publishing](https://www.scarlet-publishing.com/)
+2. <img width="20" height="20" src="https://hagit-aharonof.github.io/Pictures/HomePage/mainbooks.png"> [Hagit Aharonof](http://hagitaharonof.com/)
