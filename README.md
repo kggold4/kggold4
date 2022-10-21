@@ -1,64 +1,56 @@
-<h1 align="center">Kfir Goldfarb</h1>
+## Welcome 🤙
 
-<p align="center"><i>
-Software Developer at <a href="https://www.linkedin.com/company/matrix/">@Matrix</a>
-<br>
-Computer Science and Math Student, Specialize in Data Science and Artificial Intelligence (third year)
-</i></p>
+> #### 💻 Software Developer at <a href="https://www.linkedin.com/company/matrix/">@Matrix</a>
 
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kggold4&show_icons=true&theme=react&layout=compact&line_height=20" />
-</p>
+> #### 🌱 &nbsp; Computer Science and Mathematics Student, Specialize in Data Science and Artificial Intelligence (third year)
 
-<h3 align="center">
-
-![](https://visitor-badge.laobi.icu/badge?page_id=kggold4.kggold4) 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=kggold4.kggold4)
 [![Github](https://img.shields.io/github/followers/kggold4?label=Followers&style=social)](https://github.com/kggold4)
 
-</h3>
+## Knowledge 🔭
 
-<h4 align="left">Languages, Databases and Tools:</h4>
-<p align="center">
-<a href="https://www.java.com" target="Java"> <img src="https://github.com/get-icon/geticon/blob/master/icons/java.svg" alt="java" width="35" height="35"/></a>
-<a href="https://www.python.org" target="Python"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" alt="python" width="35" height="35"/></a>
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/c.svg" alt="C" width="35" height="35"/></a>
-<a href="https://www.cplusplus.com/" title="C++"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/c-plusplus.svg" alt="C++" width="35" height="35"/>  </a>
-<a href="https://developer.mozilla.org/he/docs/Web/JavaScript"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" alt="javascript" width="35" height="35"/></a>
-<a href="https://developer.mozilla.org/he/docs/Web/HTML"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/html-5.svg" alt="html-5" width="35" height="35"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/css-3.svg" alt="css-3" width="35" height="35"/></a>
-<a href="https://www.mongodb.com/"> <img src="https://img.icons8.com/color/50/000000/mongodb.png" alt="mongodb" width="35" height="35"/></a>
-<a href="https://www.mysql.com/"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/mysql.svg" alt="mysql" width="35" height="35"/></a>
-<a href="https://www.elastic.co/"> <img src="https://cdn.iconscout.com/icon/free/png-256/elasticsearch-226094.png" alt="elasticsearch" width="35" height="35"/></a>
-<a href="https://neo4j.com/"> <img src="https://iconape.com/wp-content/files/qy/83705/svg/neo4j.svg" alt="neo4j" width="35" height="35"/></a>
-<a href="https://redis.io/"> <img src="https://cdn.iconscout.com/icon/free/png-256/redis-83994.png" alt="redis" width="35" height="35"/></a>
-<a href="https://www.linux.org/"> <img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/linux-tux.svg" alt="linux" width="35" height="35"/></a>
-<a href="https://www.docker.com/"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/docker-icon.svg" alt="docker" width="35" height="35"/></a>
-<a href="https://git-scm.com/" target="git"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/></a>
-<a href="https://developer.android.com/" target="git"> <img src="https://www.gstatic.com/devrel-devsite/prod/v84e6f6a61298bbae5bb110c196e834c7f21fe3fb34e722925433ddb936d280c9/android/images/touchicon-180.png" alt="android studio" width="35" height="35"/></a>
-<a href="https://www.tensorflow.org/" target="tensorflow"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tensorflow" width="35" height="35"/></a>
-<a href="https://numpy.org/" target="numpy"> <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/numpy-icon.svg" alt="numpy" width="35" height="35"/></a>
-<a href="https://pandas.pydata.org/" target="pandas"> <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/pandas-icon.svg" alt="pandas" width="35" height="35"/></a>
+### Languages ⌨
 
-</p>
+![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
+![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=FF6F00&logo=&logoColor=FFFFFF&label=☕)
+![C](https://img.shields.io/static/v1?style=for-the-badge&message=C&color=222222&logo=C&logoColor=A8B9CC&label=)
+![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=)
+![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
 
-<h4 align="left">IDE's, Code Editors and Programs:</h4>
-<p align="center">
-<a href="https://www.jetbrains.com/idea/" title="Intellij IDEA"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/intellij-idea.svg" alt="Intellij IDEA" width="35" height="35"/></a>  
-<a href="https://www.jetbrains.com/pycharm/" target="PyCharm"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/pycharm.svg" alt="PyCharm" width="35" height="35"/></a>
-<a href="https://code.visualstudio.com/" title="Visual Studio Code"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio Code" width="35" height="35"/></a>  
-<a href="https://jupyter.org/" target="jupyter"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/jupyter.svg" alt="jupyter" width="35" height="35"/></a>
-<a href="http://adobe.com/il_he/products/photoshop.html"> <img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/photoshop.svg" alt="photoshop" width="35" height="35"/></a>
-<a href="http://adobe.com/il_he/products/illustrator.html" target="illustrator"> <img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/illustrator.svg" alt="illustrator" width="35" height="35"/></a>
-<a href="https://www.adobe.com/il_he/products/animate.html" target="animate"> <img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/animate.svg" alt="animate" width="35" height="35"/></a>
-</p>
+### Libraries & Frameworks 📚
 
-<h4 align="left">Links:</h4>
-<p align="center">
-<a href="https://github.com/kggold4"> <img src="https://www.pngkey.com/png/full/178-1787243_github-icon-png-github-icon-white-png.png" alt="github" width="35" height="35"/></a>
-<a href="https://www.linkedin.com/in/kfir-goldfarb/"> <img src="https://github.com/get-icon/geticon/blob/master/icons/linkedin-icon.svg" alt="linkedin" width="35" height="35"/></a>
-<a href="https://stackoverflow.com/users/14749277/kfir-goldfarb"> <img src="https://apifriends.com/wp-content/uploads/2018/04/stackoverflow.png" alt="stackoverflow" width="35" height="35"/></a>
-<a href="https://www.hackerrank.com/kggold4"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Hackerrank_meaningful_logo.svg/1024px-Hackerrank_meaningful_logo.svg.png" alt="Hackerrank" width="35" height="35"/></a>
-<a href="https://replit.com/@kggold4"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/768px-Repl.it_logo.svg.png" alt="Repl.it" width="35" height="35"/></a>
-<a href="https://www.youtube.com/kggold4"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" alt="YouTube" width="50.4" height="35"/></a>
+![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
+![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=)
+![Selenium](https://img.shields.io/static/v1?style=for-the-badge&message=Selenium&color=43B02A&logo=Selenium&logoColor=FFFFFF&label=)
+![Flask](https://img.shields.io/static/v1?style=for-the-badge&message=Flask&color=000000&logo=Flask&logoColor=FFFFFF&label=)
+![TensorFlow](https://img.shields.io/static/v1?style=for-the-badge&message=TensorFlow&color=FF6F00&logo=TensorFlow&logoColor=FFFFFF&label=)
+![scikit-learn](https://img.shields.io/static/v1?style=for-the-badge&message=scikit-learn&color=222222&logo=scikit-learn&logoColor=F7931E&label=)
+![Plotly](https://img.shields.io/static/v1?style=for-the-badge&message=Plotly&color=3F4F75&logo=Plotly&logoColor=FFFFFF&label=)
+![pandas](https://img.shields.io/static/v1?style=for-the-badge&message=pandas&color=150458&logo=pandas&logoColor=FFFFFF&label=)
+![NumPy](https://img.shields.io/static/v1?style=for-the-badge&message=NumPy&color=013243&logo=NumPy&logoColor=FFFFFF&label=)
 
-</p>
+### Databases 🗂
+
+![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
+![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
+![Redis](https://img.shields.io/static/v1?style=for-the-badge&message=Redis&color=DC382D&logo=Redis&logoColor=FFFFFF&label=)
+![Neo4j](https://img.shields.io/static/v1?style=for-the-badge&message=Neo4j&color=4581C3&logo=Neo4j&logoColor=FFFFFF&label=)
+
+### Tools 🔗
+
+![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
+![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
+![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
+![GitLab](https://img.shields.io/static/v1?style=for-the-badge&message=GitLab&color=FC6D26&logo=GitLab&logoColor=FFFFFF&label=)
+
+## Contact Me 💬
+
+[![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)](https://www.linkedin.com/in/kfir-goldfarb/)
+[![Gmail](https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=)](mailto:kggold4@gmail.com)
+
+## Other Links ⚡
+
+[![YouTube](https://img.shields.io/static/v1?style=for-the-badge&message=YouTube&color=FF0000&logo=YouTube&logoColor=FFFFFF&label=)](https://www.youtube.com/kggold4)
+[![Replit](https://img.shields.io/static/v1?style=for-the-badge&message=Replit&color=F24507&logo=Replit&logoColor=FFFFFF&label=)](https://replit.com/@kggold4)
+[![Stack Overflow](https://img.shields.io/static/v1?style=for-the-badge&message=Stack+Overflow&color=F58025&logo=Stack+Overflow&logoColor=FFFFFF&label=)](https://stackoverflow.com/users/14749277/kfir-goldfarb)
+[![HackerRank](https://img.shields.io/static/v1?style=for-the-badge&message=HackerRank&color=222222&logo=HackerRank&logoColor=00EA64&label=)](https://www.hackerrank.com/kggold4)
