@@ -62,9 +62,3 @@ Computer Science and Math Student, Specialize in Data Science and Artificial Int
 <a href="https://www.youtube.com/kggold4"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" alt="YouTube" width="50.4" height="35"/></a>
 
 </p>
-
-<h4 align="left">My Websites:</h4>
-
-1. <img width="20" height="20" src="https://github.com/kggold4/kggold4/blob/main/images/kg-01.png"> [GitHub Protfolio](https://kggold4.github.io/) (in development)
-2. <img width="20" height="20" src="https://www.scarlet-publishing.com/images/logos/scarlet_new_01.png"> [Scarlet Publishing](https://www.scarlet-publishing.com/)
-2. <img width="20" height="20" src="https://hagit-aharonof.github.io/Pictures/HomePage/mainbooks.png"> [Hagit Aharonof](http://hagitaharonof.com/)
