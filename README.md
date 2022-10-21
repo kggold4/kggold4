@@ -1,6 +1,6 @@
 ## Welcome 🤙
 
-> #### 💻 Software Developer at <a href="https://www.linkedin.com/company/matrix/">@Matrix</a>
+> #### 💻 &nbsp; Software Developer at <a href="https://www.linkedin.com/company/matrix/">@Matrix</a>
 
 > #### 🌱 &nbsp; Computer Science and Mathematics Student, Specialize in Data Science and Artificial Intelligence (third year)
 
