@@ -1,20 +1,13 @@
 ## Welcome 🤙
 
+> #### 💻 Software Developer at <a href="https://www.linkedin.com/company/matrix/">@Matrix</a>
 
-> 💻 Software Developer at <a href="https://www.linkedin.com/company/matrix/">@Matrix</a> 
+> #### 🌱 &nbsp; Computer Science and Mathematics Student, Specialize in Data Science and Artificial Intelligence (third year)
 
-> 🌱 &nbsp; Computer Science and Mathematics Student, Specialize in Data Science and Artificial Intelligence (third year)
-
-<h3 align="center">
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=kggold4.kggold4) 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=kggold4.kggold4)
 [![Github](https://img.shields.io/github/followers/kggold4?label=Followers&style=social)](https://github.com/kggold4)
 
-</h3>
-
-
 ## Knowledge 🔭
-
 
 ### Languages ⌨
 
@@ -50,12 +43,13 @@
 ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
 ![GitLab](https://img.shields.io/static/v1?style=for-the-badge&message=GitLab&color=FC6D26&logo=GitLab&logoColor=FFFFFF&label=)
 
-
 ## Contact Me 💬
+
 [![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)](https://www.linkedin.com/in/kfir-goldfarb/)
 [![Gmail](https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=)](mailto:kggold4@gmail.com)
 
 ## Other Links ⚡
+
 [![YouTube](https://img.shields.io/static/v1?style=for-the-badge&message=YouTube&color=FF0000&logo=YouTube&logoColor=FFFFFF&label=)](https://www.youtube.com/kggold4)
 [![Replit](https://img.shields.io/static/v1?style=for-the-badge&message=Replit&color=F24507&logo=Replit&logoColor=FFFFFF&label=)](https://replit.com/@kggold4)
 [![Stack Overflow](https://img.shields.io/static/v1?style=for-the-badge&message=Stack+Overflow&color=F58025&logo=Stack+Overflow&logoColor=FFFFFF&label=)](https://stackoverflow.com/users/14749277/kfir-goldfarb)
