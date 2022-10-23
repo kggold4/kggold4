@@ -1,7 +1,7 @@
 <h1 align="center">Kfir Goldfarb</h1>
 
 <p align="center"><i>
-Software Developer at <a href="https://www.linkedin.com/company/matrix/">@Matrix</a>
+Software Developer at <a href="https://www.matrix.co.il/">@Matrix</a>
 <br>
 Computer Science and Math Student, Specialize in Data Science and Artificial Intelligence (third year)
 </i></p>
