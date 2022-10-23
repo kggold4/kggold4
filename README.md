@@ -1,14 +1,6 @@
 ## Welcome 🤙
 
-<<<<<<< HEAD
-<p align="center"><i>
-Software Developer at <a href="https://www.matrix.co.il/">@Matrix</a>
-<br>
-Computer Science and Math Student, Specialize in Data Science and Artificial Intelligence (third year)
-</i></p>
-=======
 > #### 💻 &nbsp; Software Developer at <a href="https://www.linkedin.com/company/matrix/">@Matrix</a>
->>>>>>> c6501e75eca96d2a870247248d16319650373891
 
 > #### 🌱 &nbsp; Computer Science and Mathematics Student, Specialize in Data Science and Artificial Intelligence (third year)
 
