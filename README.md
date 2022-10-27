@@ -6,6 +6,9 @@
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=kggold4.kggold4)
 [![Github](https://img.shields.io/github/followers/kggold4?label=Followers&style=social)](https://github.com/kggold4)
+[![GitHub stars](https://img.shields.io/github/stars/kggold4?label=Stars&style=social)](https://github.com/kggold4)
+
+
 
 ## Knowledge 🔭
 
