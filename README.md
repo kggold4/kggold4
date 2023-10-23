@@ -2,7 +2,7 @@
 
 > #### 💻 &nbsp; Software Developer at <a href="https://www.linkedin.com/company/matrix/">@Matrix</a>
 
-> #### 🌱 &nbsp; Computer Science and Mathematics Student, Specialize in Data Science and Artificial Intelligence (third year)
+> #### 🌱 &nbsp; Computer Science and Mathematics Graduated, Specialize in Data Science and Artificial Intelligence
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=kggold4.kggold4)
 [![Github](https://img.shields.io/github/followers/kggold4?label=Followers&style=social)](https://github.com/kggold4)
