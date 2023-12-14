@@ -22,10 +22,10 @@
 
 ### Libraries & Frameworks 📚
 
+![Flask](https://img.shields.io/static/v1?style=for-the-badge&message=Flask&color=000000&logo=Flask&logoColor=FFFFFF&label=)
+![Selenium](https://img.shields.io/static/v1?style=for-the-badge&message=Selenium&color=43B02A&logo=Selenium&logoColor=FFFFFF&label=)
 ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
 ![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=)
-![Selenium](https://img.shields.io/static/v1?style=for-the-badge&message=Selenium&color=43B02A&logo=Selenium&logoColor=FFFFFF&label=)
-![Flask](https://img.shields.io/static/v1?style=for-the-badge&message=Flask&color=000000&logo=Flask&logoColor=FFFFFF&label=)
 ![TensorFlow](https://img.shields.io/static/v1?style=for-the-badge&message=TensorFlow&color=FF6F00&logo=TensorFlow&logoColor=FFFFFF&label=)
 ![scikit-learn](https://img.shields.io/static/v1?style=for-the-badge&message=scikit-learn&color=222222&logo=scikit-learn&logoColor=F7931E&label=)
 ![Plotly](https://img.shields.io/static/v1?style=for-the-badge&message=Plotly&color=3F4F75&logo=Plotly&logoColor=FFFFFF&label=)
