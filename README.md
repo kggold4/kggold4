@@ -41,10 +41,12 @@
 
 ### Tools 🔗
 
-![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
 ![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
+![Amazon AWS](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+AWS&color=232F3E&logo=Amazon+AWS&logoColor=FFFFFF&label=)
 ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
+![Kubernetes](https://img.shields.io/static/v1?style=for-the-badge&message=Kubernetes&color=326CE5&logo=Kubernetes&logoColor=FFFFFF&label=)
 ![GitLab](https://img.shields.io/static/v1?style=for-the-badge&message=GitLab&color=FC6D26&logo=GitLab&logoColor=FFFFFF&label=)
+![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
 
 ## Contact Me 💬
 
