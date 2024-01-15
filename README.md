@@ -2,7 +2,7 @@
 
 > #### 💻 &nbsp; Software Developer at <a href="https://www.linkedin.com/company/matrix/">@Matrix</a>
 
-> #### 🌱 &nbsp; Graduated in Computer Science and Mathematics honors program of Data Science and Artificial Intelligence
+> #### 🌱 &nbsp; Graduated in B.Sc Computer Science and Mathematics honors program of Data Science and Artificial Intelligence
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=kggold4.kggold4)
 [![Github](https://img.shields.io/github/followers/kggold4?label=Followers&style=social)](https://github.com/kggold4)
