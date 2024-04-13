@@ -1,6 +1,6 @@
 ## Welcome 🤙
 
-> #### 💻 &nbsp; Software Developer at <a href="https://mprest.com/">@mPrest</a>
+> #### 💻 &nbsp; Software Developer at <a href="https://mprest.com/">@mPrest Systems</a>
 
 > #### 🌱 &nbsp; Graduated in B.Sc Computer Science and Mathematics honors program of Data Science and Artificial Intelligence
 
